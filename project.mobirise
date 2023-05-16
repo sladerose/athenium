@@ -85,7 +85,8 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "witsec-white-label": true
+    "witsec-white-label": true,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
